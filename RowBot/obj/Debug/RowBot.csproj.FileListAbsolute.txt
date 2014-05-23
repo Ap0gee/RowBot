@@ -1,0 +1,6 @@
+c:\users\apogee\documents\visual studio 2010\Projects\RowBot\RowBot\bin\Debug\RowBot.dll
+c:\users\apogee\documents\visual studio 2010\Projects\RowBot\RowBot\bin\Debug\RowBot.pdb
+c:\users\apogee\documents\visual studio 2010\Projects\RowBot\RowBot\bin\Debug\AshitaAPI.dll
+c:\users\apogee\documents\visual studio 2010\Projects\RowBot\RowBot\bin\Debug\AshitaAPI.pdb
+c:\users\apogee\documents\visual studio 2010\Projects\RowBot\RowBot\obj\Debug\RowBot.dll
+c:\users\apogee\documents\visual studio 2010\Projects\RowBot\RowBot\obj\Debug\RowBot.pdb
